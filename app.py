@@ -81,3 +81,18 @@ def index():
 if __name__ == "__main__":
     #app.run(host='127.0.0.1', port=8001, debug=True)
 	app.run(debug=True)
+
+
+
+# go to ineuron.ai website
+# list down all the courses
+# one by one scrap all the courss
+# collect all the data segment wise
+# store this data in mysql system/ mongodb
+# deploy it on heroku, aws, gcp
+# share a deployed link
+# optional: create a ui and showcase in html
+#
+# dont take help from ineuron mentor
+# always use coding standards..create class, object, method
+# exception handling
